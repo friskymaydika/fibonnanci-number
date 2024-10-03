@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\loop\bin\Debug\loop.exe.config
+C:\Users\User\source\repos\loop\bin\Debug\loop.exe
+C:\Users\User\source\repos\loop\bin\Debug\loop.pdb
+C:\Users\User\source\repos\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\loop\obj\Debug\loop.exe
+C:\Users\User\source\repos\loop\obj\Debug\loop.pdb
